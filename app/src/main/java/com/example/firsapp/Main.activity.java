@@ -65,7 +65,7 @@ public class MainActivity extends Activity {
                          
     else {
        Intent intent=new  Intent(MainActivity.this,ResultActivity.class);    
-       intent.putExtra("results",results);     
+       intent.putExtra("results",results); // Здесь должен быть массив с данными
        startActivity(intent);
        finish();
      }                     
@@ -88,7 +88,7 @@ t     textView.setText(questions[questionIndex].getQuestionResId());
   
       else {
       Intent intent=new  Intent(MainActivity.this,ResultActivity.class);   
-      intent.putExtra("results",results);      
+      intent.putExtra("results",results); // Здесь должен быть массив с данными   
       startActivity(intent);
       finish();
       }   
