@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.firstapp;
 
 public class Question {
     private int questionResId; // ID вопроса
