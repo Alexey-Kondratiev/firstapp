@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">firstapp</string>
+    <string name="title_activity_main">MAIN_ACTIVITY</string>
+    
+    <string name="correct">Правильно!</string>
+    <string name="incorrect">Неправильно!</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="question0">Песни альбома Abbey Road записаны the Beatles раньше, чем альбома Let It Be?</string>
+    <string name="question1">Группу Rolling Stones создал Брайан Джонс?</string>
+    <string name="question2">Автором песен Uriah Heep был Кен Хенсли?</string>
+    <string name="question3">^Песня дождя^ входила в первый альбом Led Zeppelin?</string>
+    <string name="question4">Песня Love Hurts была записана группой Nazareth в 1975 году?</string>
+    <string name="question5">Название песни Coz I Luv U группа Slade специально написала с ошибками?</string>
+    <string name="result">Результаты теста:</string>
+    
+</resources>
